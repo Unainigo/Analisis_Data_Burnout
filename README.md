@@ -96,4 +96,5 @@ project/
 - Antes de lanzar el proyecto tienes que intalar en el .venv todas la librerias que aparecen en el requirements.txt para ello tienes que escribir el siguiente codigo: pip install -r requirements.txt
 - Después simplemente solo tienes que escribir python main.py para ejecutar todo el código.
 ```#   A n a l i s i s _ D a t a _ B u r n o u t  
+ #   A n a l i s i s _ D a t a _ B u r n o u t  
  
