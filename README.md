@@ -1,4 +1,4 @@
-## Burnout dentro de la industria tech
+```# Analisis_Data_Burnout
 
 ### 1) Objetivo
 - El objetivo principal de este proyecto sería reconocer el burnout que nos podemos encontrar en los trabajos tech. Para ello vamos a utilizar indicadores como pueden ser el sexo, el país, el tamaño de la empresa, la edad y el puesto de trabajo.
@@ -95,6 +95,8 @@ project/
 - Para poder ejecutar el código primero tienes que activar el entorno escribiendo el siguiente código estando en el terminal en la carpeta de project_demo: .\.venv\Scripts\activate
 - Antes de lanzar el proyecto tienes que intalar en el .venv todas la librerias que aparecen en el requirements.txt para ello tienes que escribir el siguiente codigo: pip install -r requirements.txt
 - Después simplemente solo tienes que escribir python main.py para ejecutar todo el código.
-```#   A n a l i s i s _ D a t a _ B u r n o u t  
- #   A n a l i s i s _ D a t a _ B u r n o u t  
+
+ 
+ #   A n a l i s i s _ D a t a _ B u r n o u t 
+ 
  
