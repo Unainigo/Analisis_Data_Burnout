@@ -55,7 +55,7 @@ En el gráfico de burnout_país podemos observar lo siguiente:
 - Francia, Países Bajos y Brasil presentan niveles comparativamente menores.
 
 ![Burnout por Pais y Puesto de trabajo](Imagenes/heatmap_burnout.png)
-En el geatmap que nos habla sobre el burnout en los puestos de trabajo por país podemos encontrar los siguientes datos: 
+En el heatmap que nos habla sobre el burnout en los puestos de trabajo por país podemos encontrar los siguientes datos: 
 - Los niveles de burnout se mantienen elevados en prácticamente todos los puestos técnicos.
 - Los QA Engineers en Francia presentan uno de los niveles medios de burnout más altos del dataset.
 - Los Cloud Engineers y Cybersecurity Engineers también muestran valores elevados en varios países.
