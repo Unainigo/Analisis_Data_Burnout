@@ -69,9 +69,10 @@ En el geatmap que nos habla sobre el burnout en los puestos de trabajo por país
 Por lo que para finalizar podemos decir que estos resultados refuerzan la necesidad de implementar iniciativas de salud mental, mejora de la gestión de la carga de trabrajo y fomentar entornos laborables más sanos dentro de la industria tech.
 
 
-'''### 8) Estructura del proyecto
+### 8) Estructura del proyecto
 La estructura de capetas del proyecto sería la siguiente:
 project/
+```
 ├── main.py  #Donde se ejecuta el pipline completo
 ├── data/
 │   ├── raw/ #Lugar donde se encuentra el dataset sin procesar
