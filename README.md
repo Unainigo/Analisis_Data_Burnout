@@ -72,7 +72,7 @@ Por lo que para finalizar podemos decir que estos resultados refuerzan la necesi
 ## 8) Estructura del proyecto
 La estructura de capetas del proyecto sería la siguiente:
 project/
-
+```
 ├── main.py  #Donde se ejecuta el pipline completo
 ├── data/
 │   ├── raw/ #Lugar donde se encuentra el dataset sin procesar
@@ -90,7 +90,7 @@ project/
 ├── README.md
 ├── .gitignore
 └── requirements.txt
-
+```
 ## 9) Cómo ejecutar
 - Primero tienes que crear el entorno escribiendo el siguiente codigo: python -m venv .venv
 - Para poder ejecutar el código primero tienes que activar el entorno escribiendo el siguiente código estando en el terminal en la carpeta de project_demo: .\.venv\Scripts\activate
