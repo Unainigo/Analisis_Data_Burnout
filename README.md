@@ -1,4 +1,4 @@
-```### Analisis_Data_Burnout
+### Analisis_Data_Burnout
 
 ### 1) Objetivo
 - El objetivo principal de este proyecto sería reconocer el burnout que nos podemos encontrar en los trabajos tech. Para ello vamos a utilizar indicadores como pueden ser el sexo, el país, el tamaño de la empresa, la edad y el puesto de trabajo.
@@ -69,7 +69,7 @@ En el geatmap que nos habla sobre el burnout en los puestos de trabajo por país
 Por lo que para finalizar podemos decir que estos resultados refuerzan la necesidad de implementar iniciativas de salud mental, mejora de la gestión de la carga de trabrajo y fomentar entornos laborables más sanos dentro de la industria tech.
 
 
-### 8) Estructura del proyecto
+'''### 8) Estructura del proyecto
 La estructura de capetas del proyecto sería la siguiente:
 project/
 ├── main.py  #Donde se ejecuta el pipline completo
